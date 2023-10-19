@@ -32,7 +32,7 @@ Before using this library, make sure you have the following prerequisites:
 To get started, clone this repository:
 
 ```bash
-git clone [Your Repository URL]
+git clone https://github.com/mrnithish/AI-LLM-Huggingface.git
 ```
 
 Make sure you have the required Python environment set up and the necessary libraries installed. You can install the required libraries using pip:
