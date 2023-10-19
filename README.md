@@ -69,7 +69,7 @@ For more details and advanced usage, please refer to the documentation.
 
 ## License
 
-This project is open-source and is released under the MIT License.
+This project is open-source and is released under the Apache License.
 
 ## Acknowledgments
 
