@@ -38,7 +38,7 @@ git clone https://github.com/mrnithish/AI-LLM-Huggingface.git
 Make sure you have the required Python environment set up and the necessary libraries installed. You can install the required libraries using pip:
 
 ```bash
-pip install -r requirements.txt
+pip install transformers diffusers -q
 ```
 
 ## Usage
